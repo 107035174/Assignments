@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        String Name = "\u0053\u0061\u0069\u006B\u0068\u0061\u006E\u0062\u0061\u0074";
+        String Name = "\u0421\u0430\u0439\u0445\u0430\u043d\u0431\u0430\u0442";
         System.out.printf(Name + "\uD83D\uDC4B");
     }
 }
